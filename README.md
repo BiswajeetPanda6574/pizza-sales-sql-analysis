@@ -1,58 +1,36 @@
-\# Pizza Sales Analysis using SQL
+# Pizza Sales Analysis using SQL
 
+## Overview
+Analyzed pizza sales data using SQL to derive actionable business insights on sales performance and customer demand patterns.
 
+## Dataset
+- Orders  
+- Order Details  
+- Pizzas  
+- Pizza Types  
 
-\## Overview
+## Key Analysis
+- Identified top-selling and highest revenue-generating pizzas  
+- Analyzed total orders and revenue trends  
+- Examined sales distribution across categories and sizes  
 
-This project analyzes pizza sales data using SQL to extract business insights.
+## SQL Techniques
+- JOIN operations  
+- GROUP BY & aggregations  
+- Filtering & sorting  
 
+## Sample Outputs
 
+### Top 5 Ordered Pizzas
+![Top_5](results/top_5_ordered_pizza.png)
 
-\## Dataset
+### Total Revenue
+![Revenue](results/total_revenue.png)
 
-\- Orders
+### Total Orders
+![Orders](results/total_orders.png)
 
-\- Order Details
-
-\- Pizzas
-
-\- Pizza Types
-
-
-
-\## Key Analysis
-
-\- Top-selling pizzas
-
-\- Revenue trends
-
-\- Sales distribution
-
-
-
-\## SQL Concepts Used
-
-\- JOINs
-
-\- GROUP BY
-
-\- Aggregations
-
-\- Filtering
-
-
-
-\## Sample Outputs
-
-
-
-\### Top Selling Pizza
-
-!\[Top Selling](results/top 5 ordered\_pizza.png)
-
-
-
-\### Revenue Analysis
-
-!\[Revenue](results/total\_revenue.png)
-
+## Key Insights
+- A few pizza types contribute majority of revenue  
+- Larger size pizzas drive higher sales value  
+- Demand peaks during specific time periods  
