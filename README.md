@@ -22,7 +22,7 @@ Analyzed pizza sales data using SQL to derive actionable business insights on sa
 ## Sample Outputs
 
 ### Top 5 Ordered Pizzas
-![Top 5](results/top 5 ordered_pizza.png)
+![Top_5](results/top_5_ordered_pizza.png)
 
 ### Total Revenue
 ![Revenue](results/total_revenue.png)
